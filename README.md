@@ -1,6 +1,6 @@
 # Cursor-IDE Setup
 <details>
-<summary> <b> 📑Table of Contents</b></summary>
+<summary> <b> 📑Table of Contents</b> </summary>
 
 * [Introduction](#introduction)
 * [Tools Installed](#tools-installed)
