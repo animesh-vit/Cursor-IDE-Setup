@@ -16,7 +16,7 @@ This repository documents the installation and setup of Cursor IDE along with Cl
 
 ## Tools Installed
 1. Cursor IDE
-2.Extensions installed 
+2. Extensions installed 
    + Claude Code Extensions
    + Codex Extension
 3. Git
@@ -60,14 +60,22 @@ This repository documents the installation and setup of Cursor IDE along with Cl
    - Enter a repository name.
    - Select Public visibility.
    - Create the repository.
-     
-10. Opened the repository in Cursor IDE.
-11. Created a README.md file documenting the setup process.
-12. Committed the changes to Git.
-13. Pushed the commit to the GitHub repository.
+9. Download Git for Github repository connection in Cursor IDE
+    -    Click View on the top menu bar.
+    -    Select Source control from the dropdown menu.
+    -    click 'Download Git' https://git-scm.com/install/windows [used recommended setting] 
+11. Opened the repository in Cursor IDE.
+     - Click View on the top menu bar.
+     - Select Source control from the dropdown menu. [My need to relod Cursir IDE]
+     - click 'clone repository from Github
+     - Sign in into Github account 
+13. Created a README.md file documenting the setup process.
+14. Committed the changes to Git.
+15. Pushed the commit to the GitHub repository.
     
 ## Issues Encountered
 ## Outcome
 ## Useful Links
   + https://cursor.com/download
   + https://git-scm.com/install/windows
+  + https://github.com/
