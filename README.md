@@ -12,7 +12,8 @@
 </details>
 
 ## Introduction
-This repository documents the installation and setup of Cursor IDE along with Claude Code & Codex extensions. 
+This repository documents the installation and setup of Cursor IDE, along with the Claude Code and Codex extensions. 
+It also explains how to open a GitHub repository in Cursor IDE.
 
 ## Tools Installed
 1. Cursor IDE
