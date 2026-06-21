@@ -53,11 +53,18 @@ This repository documents the installation and setup of Cursor IDE along with Cl
            
   > [!NOTE]
   > Depending on the extension version and existing account sessions, you may not be prompted to sign in to OpenAI or Claude during installation.
+
 8. Created a public GitHub repository.
-9. Opened the repository in Cursor IDE.
-10. Created a README.md file documenting the setup process.
-11. Committed the changes to Git.
-12. Pushed the commit to the GitHub repository.
+   - Log in to GitHub.
+   - Click New Repository.
+   - Enter a repository name.
+   - Select Public visibility.
+   - Create the repository.
+     
+10. Opened the repository in Cursor IDE.
+11. Created a README.md file documenting the setup process.
+12. Committed the changes to Git.
+13. Pushed the commit to the GitHub repository.
     
 ## Issues Encountered
 ## Outcome
