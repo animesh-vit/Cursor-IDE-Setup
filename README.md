@@ -1,6 +1,6 @@
 # Cursor-IDE Setup
-<details open>
-<summary> <strong> 📑Table of Contents</strong></summary>
+<details>
+<summary> <b> 📑Table of Contents</b></summary>
 
 * [Introduction](#introduction)
 * [Tools Installed](#tools-installed)
@@ -81,10 +81,16 @@ This repository documents the installation and setup of Cursor IDE along with Cl
 13. Open the Repository 
   
 ## Issues Encountered
+1. No login prompt appeared for the Claude Code and Codex extensions.
+   - **Solution:** Since I signed in to Cursor using my Google account, both extensions were automatically signed in.
+
+2. GitHub connection option was not visible.
+   - **Solution:** Reloaded Cursor IDE, after which the GitHub connection option became available.
+     
 ## Outcome
-  - Successfully installed Cursor IDE
-  - Successfully installed Claude & Codex extensioin Cursor IDE
-  - Successfully created GitHub public repository and connected to Coursor IDE
+  - Successfully installed Cursor IDE.
+  - Successfully installed the Claude and Codex extensions in Cursor IDE.
+  - Successfully created a public GitHub repository and connected it to Cursor IDE.
     
 ## Useful Links
   + https://cursor.com/download
